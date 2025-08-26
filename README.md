@@ -12,7 +12,7 @@
 
 1. Клонируем репозиторий:
 ```bash
-git clone https://github.com/username/call-eval-agent.git
+git clone https://github.com/pakhomovmd/call-eval-agent.git
 cd call-eval-agent
 ```
 
